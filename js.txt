@@ -17,3 +17,5 @@ Object 对象
 ## 类型转换
 
 类型转换就是指将其他的数据类型，转换为String Number 或 Boolean
+强制类型转换
+隐式的类型转换
